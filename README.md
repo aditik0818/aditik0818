@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./aditi-banner.png" width="100%" alt="Aditi Kaushik - AIML Engineer">
+</p>
+
 # Hi, I'm Aditi Kaushik 👋
 
 ### B.Tech CSE (AIML) Student | Aspiring AI/ML Engineer
