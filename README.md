@@ -10,11 +10,26 @@ I'm a Computer Science student specializing in Artificial Intelligence and Machi
 - 💻 Practicing Data Structures and Algorithms
 - 🌱 Learning by building projects and exploring new technologies
 
+
 ## 🛠️ Tech Stack
-- **Languages:** Python, C, C++, JavaScript
-- **Web:** HTML, CSS
-- **Tools:** Git, GitHub, VS Code
-- **ML:** NumPy, Pandas, Scikit-learn
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css" />
+</p>
+
+### 🤖 AI / Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+### 🔧 Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
 
 ## 📌 Featured Projects
 - **VisionAI-Aegis** — AI-based border surveillance and security system
