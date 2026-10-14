@@ -11,24 +11,32 @@ I'm a Computer Science student specializing in Artificial Intelligence and Machi
 - 🌱 Learning by building projects and exploring new technologies
 
 
+
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js" height="35" alt="Python, C++, C, JavaScript"/>
 </p>
 
-### 🤖 AI / Machine Learning
+### AI / Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,opencv" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/>
 </p>
 
-### 🔧 Tools
+### Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css" height="35" alt="HTML, CSS"/>
 </p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="35" alt="Git, GitHub, VS Code"/>
+</p>
+
 
 
 ## 📌 Featured Projects
