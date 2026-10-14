@@ -8,11 +8,11 @@
 
 I'm a Computer Science student specializing in Artificial Intelligence and Machine Learning. I enjoy learning new technologies, solving coding problems, and building practical projects.
 
-## 🚀 About Me
-- 🎓 B.Tech CSE (AIML) at SRM University, Modinagar
-- 🤖 Interested in AI, Machine Learning, and Computer Vision
-- 💻 Practicing Data Structures and Algorithms
-- 🌱 Learning by building projects and exploring new technologies
+##  About Me
+-  B.Tech CSE (AIML) at SRM University, Modinagar
+-  Interested in AI, Machine Learning, and Computer Vision
+-  Practicing Data Structures and Algorithms
+-  Learning by building projects and exploring new technologies
 
 
 
